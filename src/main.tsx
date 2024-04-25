@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
 import './App.css'
 import WebApp from '@twa-dev/sdk'
-import { TonConnectUIProvider } from '@tonconnect/ui-react';
 
 WebApp.ready();
 
